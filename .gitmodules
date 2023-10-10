@@ -1,0 +1,3 @@
+[submodule "Implementation/HiveCom"]
+	path = Implementation/HiveCom
+	url = https://github.com/DhirajWishal/HiveCom
